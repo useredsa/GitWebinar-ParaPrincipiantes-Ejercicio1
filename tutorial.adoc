@@ -1,0 +1,30 @@
+= Tutorial sobre Git
+
+== Material
+
+Una carpeta proporcionada por el ponente que contiene varias subcarpetas
+con cambios que corresponderían a varios commits.
+
+== Ejercicio número 1
+
+. Clonamos el repositorio https://github.com/useredsa/GitWebinar-ParaPrincipiantes-Ejercicio1
+
+. Abrimos la carpeta proporcionada y realizamos cambios sobre el repositorio
+utilizando los fichero de la carpeta `commit1`.
+
+.. Cambiamos el archivo `tutorial.adoc` por el archivo `commit1/tutorial.adoc`
+
+.. Añadimos el archivo `glosarios/glosario-ejercicio1.pdf`
+que encontraremos en `commit1/glosarios/glosario-ejercicio1.pdf`
+
+. Hacemos un commit con el mensaje: `Añadido glosario de términos`.
+
+. Creamos un repositorio online con la cuenta que hayamos creado
+en GitHub/GitLab/Otro.
+
+(Empieza lo difícil.)
+
+. Añadimos el repositorio remoto a nuestro repositorio local.
+
+. Subimos la historia del repositorio a nuestro repositorio online.
+
